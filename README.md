@@ -23,3 +23,6 @@
 ### Açıklama
 
 ##### * Birkaç satır kod ile 3D Carousal Animation oluşturuldu.
+
+
+#### Credit: youtube/BrianAdvent
