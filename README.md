@@ -1,6 +1,6 @@
 # 3DCardCarousel <img src="https://github.com/SezginCiftci/3DCardCarousel/blob/main/3DCardCarousel/3d-model.png" width="40">
 
-<img src="https://github.com/SezginCiftci/3DCardCarousel/blob/main/3DCardCarousel/3DCarousalAnimation.gif" width="350">
+<img src="https://github.com/SezginCiftci/3DCardCarousel/blob/main/3DCardCarousel/3DCarousal.gif" width="350">
 
 
 ## ENG
